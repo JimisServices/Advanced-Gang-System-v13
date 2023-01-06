@@ -1,3 +1,7 @@
 Advanced Gang System - Discord JS v13
 
 Made By Jimis#2825
+
+**SIMPLHRWSTE TO CONFIG PRWTA KAI META TREKSTE TO BOT**
+
+**TO COMMAND GIA NA STALEI TO EMBED INE !gang **
